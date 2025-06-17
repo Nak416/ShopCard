@@ -1,18 +1,16 @@
-
 @import "tailwindcss";
-@plugin "daisyui"
-{
+@plugin "daisyui"{
     themes: light --default;
 }
 .bg-image{
-    background: url(bg.png);
+    background: url(/images/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-        background-attachment: fixed;
 }
 .bg-image-herotwo{
-    background: url(bg2.png);
+     background: url(/images/bg2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+
 }
