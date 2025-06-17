@@ -1,9 +1,9 @@
 import React, { Component } from "react"
 import { Outlet } from "react-router-dom"
-import Header from "./components/Header"
-import Hero from "./components/Hero"
-import ShopCategories from "./components/ShopCategories"
-import Footer from "./components/footer"
+import Header from "./Components/Header"
+import Hero from "./Components/Hero"
+import ShopCategories from "./Components/ShopCategories"
+import Footer from "./Components/footer"
 
 
 
