@@ -8,7 +8,7 @@ function C_About() {
         <p className="text-gray-700 text-2xl leading-relaxed">
           Welcome to our shop! We offer high-quality products at the best prices to meet your needs.
           Our mission is to provide excellent service, fast delivery, and ensure customer satisfaction.
-          Thank you for trusting us and being part of our journey.
+          Thank you for trusting us and being part of our journey .
         </p>
         <p className="text-gray-700 text-2xl leading-relaxed mt-4">
           Our team is passionate about helping you find the right products and delivering an outstanding shopping experience.
