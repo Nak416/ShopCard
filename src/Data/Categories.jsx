@@ -1,7 +1,7 @@
 const data=[
     {
         text : "Laptop",
-        image:"https://surl.li/bkpjnm"
+        image:"https://www.stuff.tv/wp-content/uploads/sites/2/2021/04/Stuff-Best-Laptop-Lead.png"
     },
      {
         text : "Phone",

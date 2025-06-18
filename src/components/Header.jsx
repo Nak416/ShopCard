@@ -4,6 +4,7 @@ import { FaUser } from "react-icons/fa";
 import { IoIosMenu } from "react-icons/io";
 import { IoCallOutline, IoCart, IoClose, IoSearch } from "react-icons/io5";
 import { NavLink } from "react-router-dom";
+// Assuming you have a CSS file for styles
 function Header() {
   const [isOpen, setisopen] = useState(false);
   return (
